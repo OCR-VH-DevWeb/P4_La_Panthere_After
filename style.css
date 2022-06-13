@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -826,7 +826,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
